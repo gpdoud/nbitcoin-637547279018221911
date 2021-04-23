@@ -1,0 +1,16 @@
+C:\repos\nbitcoin\NBitcoinFirstProject\NBitcoinFirstProject\bin\Debug\NBitcoinFirstProject.exe.config
+C:\repos\nbitcoin\NBitcoinFirstProject\NBitcoinFirstProject\bin\Debug\NBitcoinFirstProject.exe
+C:\repos\nbitcoin\NBitcoinFirstProject\NBitcoinFirstProject\bin\Debug\NBitcoinFirstProject.pdb
+C:\repos\nbitcoin\NBitcoinFirstProject\NBitcoinFirstProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\repos\nbitcoin\NBitcoinFirstProject\NBitcoinFirstProject\bin\Debug\NBitcoin.dll
+C:\repos\nbitcoin\NBitcoinFirstProject\NBitcoinFirstProject\bin\Debug\Newtonsoft.Json.dll
+C:\repos\nbitcoin\NBitcoinFirstProject\NBitcoinFirstProject\bin\Debug\System.Buffers.dll
+C:\repos\nbitcoin\NBitcoinFirstProject\NBitcoinFirstProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\repos\nbitcoin\NBitcoinFirstProject\NBitcoinFirstProject\bin\Debug\NBitcoin.xml
+C:\repos\nbitcoin\NBitcoinFirstProject\NBitcoinFirstProject\bin\Debug\Newtonsoft.Json.xml
+C:\repos\nbitcoin\NBitcoinFirstProject\NBitcoinFirstProject\bin\Debug\System.Buffers.xml
+C:\repos\nbitcoin\NBitcoinFirstProject\NBitcoinFirstProject\obj\Debug\NBitcoinFirstProject.csprojAssemblyReference.cache
+C:\repos\nbitcoin\NBitcoinFirstProject\NBitcoinFirstProject\obj\Debug\NBitcoinFirstProject.csproj.CoreCompileInputs.cache
+C:\repos\nbitcoin\NBitcoinFirstProject\NBitcoinFirstProject\obj\Debug\NBitcoinFirstProject.csproj.CopyComplete
+C:\repos\nbitcoin\NBitcoinFirstProject\NBitcoinFirstProject\obj\Debug\NBitcoinFirstProject.exe
+C:\repos\nbitcoin\NBitcoinFirstProject\NBitcoinFirstProject\obj\Debug\NBitcoinFirstProject.pdb
